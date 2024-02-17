@@ -12,12 +12,16 @@ dependencies:
   - geoplot
   - georasters
   - matplotlib
+  - networkx
   - pandas
   - pandas-datareader
   - plotnine
   #- numba
   - pip
   - pycountry
+  - scikit-image 
+  - scikit-learn 
+  - seaborn
   - statsmodels
   - pip:
     - stargazer
