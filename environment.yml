@@ -14,4 +14,12 @@ dependencies:
   - matplotlib
   - pandas
   - pandas-datareader
+  - plotnine
   #- numba
+  - pip
+  - pycountry
+  - statsmodels
+  pip:
+    - stargazer
+    - lets-plot 
+    - pyfixest
