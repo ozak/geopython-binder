@@ -11,4 +11,4 @@ dependencies:
   - geopandas
   - georasters
   - pandas
-  - numba
+  #- numba
