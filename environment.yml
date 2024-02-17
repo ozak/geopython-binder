@@ -1,0 +1,10 @@
+name: geopython
+channels:
+  - conda-forge
+  - r
+dependencies:
+  - python 3.10
+  - numpy
+  - scipy
+  - jupyter
+  - jupyterlab
