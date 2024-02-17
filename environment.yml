@@ -19,7 +19,7 @@ dependencies:
   - pip
   - pycountry
   - statsmodels
-  pip:
+  - pip:
     - stargazer
     - lets-plot 
     - pyfixest
