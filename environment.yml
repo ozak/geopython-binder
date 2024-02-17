@@ -9,6 +9,9 @@ dependencies:
   - jupyter
   - jupyterlab
   - geopandas
+  - geoplot
   - georasters
+  - matplotlib
   - pandas
+  - pandas-datareader
   #- numba
