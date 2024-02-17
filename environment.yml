@@ -4,8 +4,7 @@ channels:
   - r
 dependencies:
   - python=3.10
-  - numpy
-  - scipy
+  - cython
   - jupyter
   - jupyterlab
   - geopandas
@@ -13,16 +12,22 @@ dependencies:
   - georasters
   - matplotlib
   - networkx
+  - numpy
+  - openpyxl
   - pandas
   - pandas-datareader
   - plotnine
   #- numba
   - pip
   - pycountry
+  - scipy
   - scikit-image 
   - scikit-learn 
   - seaborn
   - statsmodels
+  - unidecode
+  - wikipedia 
+  - xlrd
   - pip:
     - stargazer
     - lets-plot 
